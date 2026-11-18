@@ -1,0 +1,18 @@
+{
+  "paths": {
+    "data_clinical": "data/derivation_clinical.ods",
+    "data_radiomic": "data/derivation_radiomic.csv",
+    "external_clinical": "data/external_clinical.xlsx",
+    "external_radiomic": "data/external_radiomic.csv",
+    "results_dir": "results_cox",
+    "figures_dir": "figures_cox",
+    "checkpoints_dir": "checkpoints_cox",
+    "cache_dir": "cache_cox",
+    "logs_dir": "logs",
+    "frozen_model": "model/frozen_model.json"
+  },
+  "lost_to_followup_ids": [0, 0],
+  "exclude_ids": [],
+  "target_fixes": {"0": 0},
+  "field_id_cutoff": 0
+}
