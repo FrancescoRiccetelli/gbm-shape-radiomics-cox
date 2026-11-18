@@ -155,7 +155,7 @@ If you use this code, please cite:
 
 [Authors]. Shape radiomics and clinical-molecular variables provide complementary, time-dependent prognostic information in IDH-wildtype glioblastoma. Submitted to Frontiers in Oncology (2026).
 
-Code: [Zenodo DOI]
+Code: 10.5281/zenodo.24351741
 
 ## License
 
